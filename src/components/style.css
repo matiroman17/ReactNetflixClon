@@ -1,0 +1,52 @@
+.logo{
+    width: 180px;
+    margin-left: 3%;
+    margin-top: 2%;
+    cursor: pointer;
+}
+.txtGray{
+    font-size: 12px;
+    color: #757575
+}
+.footer{
+    height: 32vh;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
+.footerContent{
+    margin-left: 15%;
+    color: #757575;
+    font-size:18px;
+}
+.footerContent .options{
+    font-size: 12px;
+}
+
+option{
+    background-color: black !important;
+}
+
+.links{
+    color: white;
+    text-decoration: none;
+}
+.links:hover{
+    text-decoration: underline;
+}
+
+.blueLinks{
+    color: #0080ff;
+    text-decoration: none ;
+}
+.blueLinks:hover{
+    text-decoration: underline;
+}
+
+.fondo0{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../img/AR-es-20220418-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+}
+.fondo1{
+    background-image: url(../img/login-the-crown_2-1500x1000.jpg);
+    padding: 15px;
+}

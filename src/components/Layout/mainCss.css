@@ -1,0 +1,55 @@
+
+
+.firstMainElement {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../../img/AR-es-20220418-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+
+    /* background-color: black; */
+    
+}
+
+.secondMainElement {
+    padding-top: 40px;
+    background-color: black;
+}
+.secondMainElement  img{
+    height: 80%;
+}
+
+.txtBox{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.imageBox{
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 75px !important;
+}
+.vid {
+    background-image: url(../../img/tv.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 400px;
+}
+.vid video {
+    margin-top:73px;
+    height: 58%;
+}
+
+
+.vidDevice {
+    background-image: url(../../img/device-pile.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 400px;
+}
+.vidDevice video {
+    margin-top:50px;
+    margin-left: 90px;
+    height: 40%;
+}
+
+.acorddeonText{
+    margin-left: 15px !important;
+}
